@@ -1,0 +1,13 @@
+{
+   "isProduction":true,
+   "models":[
+      {
+         "geo":"GB",
+         "view":"https://fortunetigarclassic.tilda.ws"
+      },
+      {
+         "geo":"RU",
+         "view":"https://fortunetigarclassic.tilda.ws/ru"
+      }
+   ]
+}
