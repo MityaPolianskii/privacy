@@ -1,13 +1,9 @@
 {
-   "isProduction":false,
+   "isProduction":true,
    "models":[
       {
-         "geo":"GB",
-         "view":"https://fortunetigarclassic.tilda.ws"
-      },
-      {
-         "geo":"RU",
-         "view":"https://fortunetigarclassic.tilda.ws/ru"
+         "geo":"BR",
+         "view":"https://xtraffx.com/N96g6cch?sub_id_1=riforttigbr"
       }
    ]
 }
